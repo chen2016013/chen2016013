@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 Career: Deep Learning Framework Engineer
 
 
-[![chen2016013's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen2016013)](https://github.com/chen2016013/github-readme-stats)
+[![chen2016013's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen2016013&show_icons=true&theme=radical)](https://github.com/chen2016013/github-readme-stats)
