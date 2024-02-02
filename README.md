@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 #### About me
 - 👯 Organization: PaddlePaddle (Baidu)
 - 🔭 Career: Deep Learning Framework Engineer
+
+
+[![chen2016013's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen2016013)](https://github.com/chen2016013/github-readme-stats)
